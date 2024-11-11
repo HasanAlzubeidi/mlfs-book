@@ -166,3 +166,6 @@ cython_debug/
 
 snurran.sh
 .DS_Store
+
+hopsworks-api-key.txt
+aqi-api-key.txt
