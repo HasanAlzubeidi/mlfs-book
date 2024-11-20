@@ -1,16 +1,9 @@
-# mlfs-book
-O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs
+# Air quality prediction in Stockholm Sant-Eriksgatan 83 
+This project is the first assignment in the ID2223 course. The aim of this lab is to predict the air quality using weather features.  
+The main work is done in the notebooks/ch03 directory, where the involved files are:
+notebooks\ch03\1_air_quality_feature_backfill.ipynb
+notebooks\ch03\2_air_quality_feature_pipeline.ipynb
+notebooks\ch03\3_air_quality_training_pipeline.ipynb
+notebooks\ch03\4_air_quality_batch_inference.ipynb
 
-
-## ML System Examples
-
-
-[Dashboards for Air Quality Dashboard](https://hasanalzubeidi.github.io/mlfs-book/air-quality/)
-
-## Course Comparison
-
-| Course                         | MLOps | LLLMs             | Feature/Training/Inference | Working AI Systems | Focus |
-|--------------------------------|-------|----------------------------|--------------------|------------------|
-| Building AI Systems (O'Reilly) | Yes   | Fine-Tuning & RAG | Yes                        | High               | Project-based, Software Engineering, Fundamentals    |
-| [Made With ML](https://madewithml.com/)                   | No          | Yes   | No                         | No                 | Software Engineering, Model Training   |
-| [7 Steps MLOps](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)            | Yes   | Separate Course    | Yes                        | Low                | Learning Tools and Project    |
+A brief discription of how it works is 
