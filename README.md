@@ -19,3 +19,7 @@ In this file we start by picking an air quality sensor from https://waqi.info/ i
 3_air_quality_training_pipeline.ipynb: This notebook is the notebook that is responsible for the main training of the model and then evaluating the modal and saving it to be used later for the predictions.
 
 4_air_quality_batch_inference.ipynb: Finally, in this notebook, we download the model that we trained before and then make a prediction and store the predictions  in a monitoring feature group.  
+
+
+# Air quality Dahsbord 
+https://hasanalzubeidi.github.io/mlfs-book/air-quality/
